@@ -1,1 +1,5 @@
-windrose
+pandas
+numpy
+scipy
+matplotlib
+windrose 
